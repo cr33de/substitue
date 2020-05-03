@@ -1,2 +1,4 @@
 # Push_swap
-sorting algorithm
+Sorting Algorithm
+
+It is run by running make all
